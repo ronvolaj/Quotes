@@ -5,7 +5,7 @@
 
 	// ---------- Punkt im Schulhof (Shkolla Austriake Shkodër) ----------
 	// ⚠️ Durch die echten Koordinaten aus Google Maps ersetzen!
-	let target = $state({ lat: 42.0683, lng: 19.5126 });
+	let target = $state({ lat: 42.05910523134263, lng: 19.517268301553923 });
 	const RADIUS = 15; // Meter
 
 	let myPosition = $state(null);
